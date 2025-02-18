@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/2025-Testing/Python-ColorDetect-OpenCV.git
+   git clone https://github.com/lymanny/Python-ColorDetectOpenCV.git
    cd Python-ColorDetect-OpenCV
    ```
 
